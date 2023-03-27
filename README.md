@@ -4,7 +4,7 @@
 # About
 This repository presents a way to contribute to the corresponding '[Decentralized Data Governance Pattern Library](https://beta.portrait.gg/0x1018c3A71997D2171E915ea89f704d9a192823EF)' website.
 
-Contributors can submit a pull request or 'open an issue' to submit a pattern.
+Contributors can '[open an issue](https://github.com/kelsien/datagovernancepatterns/issues)' to submit a pattern or add comments to comment or add context to an existing pattern.
 
 Just as a software design pattern is a general, reproducible solution to a commonly occurring problem within a given context in software design, an institutional infrastructure pattern is an organisations that is reproducible.
 
