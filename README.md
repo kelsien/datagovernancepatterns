@@ -17,11 +17,11 @@ A pattern submission is considered 'complete' when it in the following format:
 
 Title:
 
-Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)
+Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)**
 
-The need:
+The need:**
 
-The Social or Institutional Solution:
+The Social or Institutional Solution:**
 
 Stakeholders involved:
 
@@ -29,7 +29,7 @@ Stakeholders impacted:
 
 Case study example: (a couple of lines on how, when, where this pattern applies)
 
-In what context should others use this pattern?
+In what context others should use this pattern:
 
 Best practices on how to implement:
 
@@ -38,6 +38,8 @@ Potential challenges:
 Links: (if relevant)
 
 Image: (if relevant)
+
+Suggested tags:
 
 It will be added to the pattern library if considered relevant and appropriate, according to the (subjective) criteria of making a valid contribution to research on decentralised data storage patterns.
 
