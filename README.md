@@ -13,7 +13,7 @@ Institutional infrastructure is the mechanisms that set the boundaries of social
 This is what this library presents, in relation to IPFS. The aim of this library is to demonstrate how people can compose technical protocols and social patterns into complex, socio-technical systems that are resilient for those that use them. 
 
 # How to Contribute
-A pattern submission is considered 'complete' when it in the following format:
+Click 'open an issue'. A pattern submission is considered 'complete' when it in the following format:
 
 Title:
 
