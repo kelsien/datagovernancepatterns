@@ -17,15 +17,19 @@ A pattern submission is considered 'complete' when it in the following format:
 
 Title:
 
-Technology used: (e.g. IPFS, Arweave, Storj, etc)
+Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)
 
-The Social or Institutional Needs
+The need:
 
-The Social or Institutional Solution
+The Social or Institutional Solution:
+
+Stakeholders involved:
+
+Stakeholders impacted: 
 
 Case study example: (a couple of lines on how, when, where this pattern applies)
 
-In what context should others choose?
+In what context should others use this pattern?
 
 Best practices on how to implement:
 
