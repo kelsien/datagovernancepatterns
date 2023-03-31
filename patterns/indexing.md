@@ -10,7 +10,7 @@ Stakeholders involved:
 
 Stakeholders impacted:
 
-Case study example: (a couple of lines on how, when, where this pattern applies)
+Case study example/s: (a couple of lines on how, when, where this pattern applies)
 
 In what context others should use this pattern:
 
