@@ -1,4 +1,4 @@
-Title: Local First Consortium
+Title: Community Based Archives
 
 Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)**
 
