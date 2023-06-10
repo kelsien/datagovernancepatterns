@@ -2,7 +2,7 @@
 
 **The need:** 
 
-A group, organization, or institution seeks to share data with stakeholders and create a marketplace for the provision of services performed on or with the data ([Filecoin, 2023](https://rfs.fvm.dev/#01c77142f95145fbb6ddefb351f1bccc))
+A group, organization, or institution seeks to share data with stakeholders and create a marketplace for the provision of services performed on or with the data (for example, Compute Over Data) ([Filecoin, 2023](https://rfs.fvm.dev/#01c77142f95145fbb6ddefb351f1bccc))
 
 **The solution:** 
 
