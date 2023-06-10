@@ -1,4 +1,4 @@
-Title: Private Network
+Title: 
 
 Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)**
 
