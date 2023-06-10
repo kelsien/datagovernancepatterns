@@ -6,9 +6,15 @@ This repository presents a way to contribute to the corresponding '[Decentralize
 
 Contributors can '[open an issue](https://github.com/kelsien/datagovernancepatterns/issues)' to submit a pattern or add comments to comment or add context to an existing pattern.
 
+***What this is ‘pattern library’:*** [for workshop]
+
+*Each pattern articulates how to coordinate around data in line with how it should be content addressed, stored, and maintained in line with its purpose in a specific context (e.g. Access control, storage infrastructure, duration of storage, etc.)*
+
 Just as a software design pattern is a general, reproducible solution to a commonly occurring problem within a given context in software design, an institutional infrastructure pattern is an organisations that is reproducible.
 
 Institutional infrastructure is the mechanisms that set the boundaries of social behaviours, coordination, and governance in relation to a protocol. 
+
+*The aim of the pattern library is to articulate general, repeatable cases for implementation considerations on how people use IPFS. The library builds on the research finding that thinking about how data is technically architectured, structured, and governed, helps make it more resilient.*
 
 This is what this library presents, in relation to IPFS. The aim of this library is to demonstrate how people can compose technical protocols and social patterns into complex, socio-technical systems that are resilient for those that use them. 
 
