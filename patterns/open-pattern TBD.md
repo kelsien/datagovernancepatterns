@@ -1,4 +1,4 @@
-Title: Compute Over Data
+Title: 
 
 Technologies used: (e.g. IPFS, Filecoin, Arweave, Storj, etc)**
 
