@@ -2,7 +2,7 @@
 # Decentralized Data Governance Pattern Library
 
 # About
-This repository presents a way to contribute to the corresponding '[Decentralized Data Governance Pattern Library](https://beta.portrait.gg/0x1018c3A71997D2171E915ea89f704d9a192823EF)' website.
+The purpose of this project is to improve resilience (as the adaptability of people through the use of technology) by considering social and institutional arrangements in the way that people coordinate around the management and maintain of data. 
 
 ***What this is ‘pattern library’:*** [for workshop]
 
@@ -15,6 +15,8 @@ Institutional infrastructure is the mechanisms that set the boundaries of social
 *The aim of the pattern library is to articulate general, repeatable cases for implementation considerations on how people use IPFS. The library builds on the research finding that thinking about how data is technically architectured, structured, and governed, helps make it more resilient.*
 
 This is what this library presents, in relation to IPFS. The aim of this library is to demonstrate how people can compose technical protocols and social patterns into complex, socio-technical systems that are resilient for those that use them. 
+
+See the corresponding '[Decentralized Data Governance Pattern Library](https://beta.portrait.gg/0x1018c3A71997D2171E915ea89f704d9a192823EF)' website.
 
 # How to Contribute
 
