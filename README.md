@@ -2,9 +2,7 @@
 # Decentralized Data Governance Pattern Library
 
 # About
-This repository presents a way to contribute to the corresponding '[Decentralized Data Governance Pattern Library](https://beta.portrait.gg/0x1018c3A71997D2171E915ea89f704d9a192823EF)' website.
-
-Contributors can '[open an issue](https://github.com/kelsien/datagovernancepatterns/issues)' to submit a pattern or add comments to comment or add context to an existing pattern.
+This repository presents a way to improve resilience in data management by considering the social and institutional arrangements of how people organise around information technology. 
 
 ***What this is ‘pattern library’:*** [for workshop]
 
@@ -18,7 +16,12 @@ Institutional infrastructure is the mechanisms that set the boundaries of social
 
 This is what this library presents, in relation to IPFS. The aim of this library is to demonstrate how people can compose technical protocols and social patterns into complex, socio-technical systems that are resilient for those that use them. 
 
+See the corresponding '[Decentralized Data Governance Pattern Library](https://beta.portrait.gg/0x1018c3A71997D2171E915ea89f704d9a192823EF)' website.
+
 # How to Contribute
+
+Contributors can '[open an issue](https://github.com/kelsien/datagovernancepatterns/issues)' to submit a pattern or add comments to comment or add context to an existing pattern.
+
 Click 'open an issue'. A pattern submission is considered 'complete' when it in the following format:
 
 Title:
